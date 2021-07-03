@@ -24,6 +24,6 @@ For creating visualizations in Tableau , we cleaned the data and updated the tab
 
 ## Tableau Dashboard
 Four different visualizations were created to put into a single dashboard which can be seen below : 
-
+![](dashboard.png)
 
 
