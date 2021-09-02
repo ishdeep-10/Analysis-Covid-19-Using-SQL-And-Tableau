@@ -5,7 +5,7 @@ Created a dashboard using Tableau and SQL that shows the following measures :
 1. Global numbers relating to covid cases and deaths.
 2. Total Death Count by continent
 3. Percent Population Affected by Country
-4. Forecastig Percent Population Affected for the near future.
+4. Forecasting Percent Population Affected for the near future.
 
 ## Dataset and Data Cleaning
 Data for this project was collected from this site : https://ourworldindata.org/covid-deaths. <br>
